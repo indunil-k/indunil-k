@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Indunil Wickramasingha
 
-### 🚀 Full-Stack Developer | Blockchain Enthusiast | AI/ML Innovator
+### 🚀 Full-Stack Developer | Blockchain Enthusiast | AI Enthusiast
 
 *"Never broken by any obstacle, demonstrating exceptional resilience in overcoming challenges."*
 
@@ -35,15 +35,10 @@ I'm a passionate Computer Science undergraduate at the University of Moratuwa wi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Blockchain & Web3**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
-### **AI/ML & Emerging Tech**
+### **AI & Emerging Tech**
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### **IoT & Embedded Systems**
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -56,7 +51,7 @@ I'm a passionate Computer Science undergraduate at the University of Moratuwa wi
 
 ### 🌐 **Zia - Service Provider SaaS Platform**
 *Currently Building the Future of Service Connections*
-- **Tech Stack:** React, Node.js (NestJS), PostgreSQL
+- **Tech Stack:** React, Node.js (NestJS, Express JS), PostgreSQL
 - **Architecture:** Microservices for ultimate scalability
 - **Vision:** Revolutionizing how service providers connect with clients
 - **Status:** 🚧 In Active Development
@@ -88,12 +83,9 @@ I'm a passionate Computer Science undergraduate at the University of Moratuwa wi
 **🔥 I don't just code - I architect solutions that scale and innovate.**
 
 - **🌐 Full-Stack Web Applications** - From concept to deployment
-- **🔗 Blockchain & Web3 Solutions** - Decentralized apps and smart contracts  
-- **🤖 AI/ML Integration** - Intelligent systems with real-world applications
+- **🤖 AI Integration** - Intelligent systems with real-world applications
 - **🏠 IoT & Embedded Systems** - Connected devices and automation
-- **📱 Cross-Platform Applications** - Mobile and desktop solutions
 - **⚡ Real-Time Systems** - Live data processing and communication
-- **🔐 Secure Systems** - Cybersecurity and data protection
 
 ---
 
@@ -113,18 +105,15 @@ I'm a passionate Computer Science undergraduate at the University of Moratuwa wi
 
 ## 🏅 Achievements & Recognition
 
-- 🥇 **G.C.E. A/L Physical Science:** 3A passes (Island Rank: 177)
 - 🏆 **DevThon Web-App Competition Finalist** - Guideline-X Platform
 - 🥉 **Olympiad Mathematics** - Provincial Level (2018)
-- 📚 **Academic Excellence:** Z-Score 2.4777 in national examinations
-
 ---
 
 ## 🌱 Currently Exploring
 
 - Advanced Microservices Architecture
 - Blockchain Integration Patterns  
-- AI/ML Model Optimization
+- AI/ML Model integration
 - Edge Computing Solutions
 - Next-Gen Web Technologies
 
@@ -138,7 +127,6 @@ I'm a passionate Computer Science undergraduate at the University of Moratuwa wi
 - 📧 **Email:** wakindunil@gmail.com
 - 📱 **Phone:** +94 764547295
 - 🌍 **Location:** Bandaragama, Sri Lanka
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/indunil-wickramasingha)
 
 ---
 
